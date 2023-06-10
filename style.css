@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(154, 220, 224)
+   
+}
+
+ol, ul {
+    list-style-type: none;
+}
+
+.fontStyle{
+    font-style: normal;
+    font-style: italic;
+}
